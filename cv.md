@@ -2,10 +2,10 @@
 
 ## Contacts 
 
-E-mail: *m.gasparian11@gmail.com* 
-Tel: *+995557999627*
-Discord: *mary_green_eyes97#3930*
-Telegram: *marishkaa1997*
+* E-mail: *m.gasparian11@gmail.com* 
+* Tel: *+995557999627*
+* Discord: *mary_green_eyes97#3930*
+* Telegram: *marishkaa1997*
 
 ## About me
 
@@ -34,5 +34,4 @@ I never lack motivation, confidence, and tenacity**
 Bachelor's degree: Georgian Technical University (Faculty of Agricultural Sciences and Biosystems Engineering, Major: Food & Beverage Technology)
 
 ## Languages
-Georgian & Russian - Native
-English - Upper-Intermediate (B2)
+* English - Upper-Intermediate (B2)
