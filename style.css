@@ -1,0 +1,217 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 10px 5px 10px;
+}
+body{
+    color: #545E6C;
+    background-color: #f5f5f5;
+}
+h1, h2, h3, h4, h5 {
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Dancing Script', cursive;
+    src: url()
+}
+.profile-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 2.5px;
+    background-color: #42A8C0;
+    color: white;
+}
+.name{
+    font-size: 32px;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+    margin-left: 15px;
+}
+.tagline{
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+    margin-right: 15px;
+}
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+    background-color: #f5f5f5;
+}
+figure{
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 220px;
+    margin: auto;
+    border: 3px solid #42A8C0;
+    color: #545E6C;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+.figure img {
+    margin: 20px 10px 10px;
+    width: 100%; 
+}
+.figcaption{
+    padding: 3px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 25px;
+}
+.right h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    font-style: italic;
+    color: rgb(94, 179, 182);
+    margin: 5px 15px;
+}
+.top ul{
+    font-size: 15px;
+    line-height: 20px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+.bottom p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;   
+    line-height: 22px;
+    margin-top: 20px;
+}
+.my-container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    padding: 15px;
+}
+.my-container h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    font-style: italic;
+}
+.my-container li{
+    font-size: 17px;
+    line-height: 20px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    list-style-type: none;
+}
+.strengths{
+    max-width: 200px;
+    height: auto;
+    width: 100%;
+}
+.myskills{
+    max-width: 180px;
+    height: auto;
+    width: 100%;
+}
+.courses{
+    max-width: 350px;
+    height: auto;
+    width: 100%;
+}
+.courses-title,
+.skills-title,
+.strengths-title{
+    color: cadetblue;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    font-style: italic;
+    margin-left: 40px;
+}
+.education-container{
+    display: flex;
+    justify-content: space-around;
+    max-width: 900px;
+    width: 100%;
+    padding: 15px;
+    margin: auto;
+}
+.education-container h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    font-style: italic;
+    color: cadetblue;
+    margin-bottom: 10px;
+}
+.education-container h3, 
+.education-container h4, 
+.education-container h5{
+    margin-bottom: 9px;
+}
+.education-block{
+    padding-right: 150px;
+    margin-right: 35px;
+    padding-left: 50px;
+}
+.languages-block{
+    margin-top: 50px;
+    padding-left: 50px;
+    margin-right: 120px;
+}
+.degree, 
+.meta,
+.time{
+    font-size: 17px;
+    line-height: 15px;
+    font-family: 'Dancing Script', cursive;
+}
+.languages-block ul{
+    margin-right: 35px;
+    font-size: 17px;
+    line-height: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #42A8C0;
+    color: white;
+}
+.left-footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    text-decoration: none;
+}
+.left-footer p{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    margin-right: 5px;
+    color: white;
+}
+
+.left-footer img{
+    margin-left: 6px;
+}
+.right-footer{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    width: 84px;
+    margin-right: 15px;
+    padding: 20px;
+}
+.footer-year{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Indie Flower', cursive;
+    margin-right: 5px;
+}
+.right-footer img{
+    margin-right: 20px;
+}
